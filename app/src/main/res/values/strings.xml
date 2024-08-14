@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Event Tracker</string>
+    <string-array name="reminder_options">
+        <item>1 hour before</item>
+        <item>3 hours before</item>
+        <item>1 day before</item>
+        <item>1 week before</item>
+    </string-array>
+</resources>

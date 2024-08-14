@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_new_event"
+        android:title="New Event"
+        android:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_view_history"
+        android:title="Upcoming Events"
+        android:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:showAsAction="ifRoom"/>
+</menu>
